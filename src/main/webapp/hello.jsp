@@ -30,7 +30,7 @@ window.onload = function() {
 
 
 </head>
-<h1>Image Tag@@@@@@@@@@@@@@</h1>
+<h1 style="color:pink"><b>♥♥♥♥FUBAO♥♥♥♥</b></h1>
 <button>aibao</button>
 <button>lebao</button>
 
