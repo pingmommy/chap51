@@ -16,6 +16,9 @@ head1.onclick = function(e){
 	
 	console.log(this);
 	console.log(e);
+	
+	let et = e.target;
+	console.log(et);
 }
 
 

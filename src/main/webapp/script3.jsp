@@ -27,7 +27,8 @@ li{
   lang.onclick = function(e){
 	  console.log(this)
       let li = e.target;
-	  li.style.background-'red';
+	  console.log(li);
+	  li.style.background='red';
 	  
   }
   

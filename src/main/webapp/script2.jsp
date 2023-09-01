@@ -25,7 +25,8 @@ li{
 
 <script type="text/javascript">
   lang.onclick = function(e){
-	  console.log(this)
+	  console.log(this);
+	 // console.log(e);
   }
   
  for(let li of lang.children){
